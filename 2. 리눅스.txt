@@ -22,4 +22,45 @@ ctrl + d   root에서 빠져나오기
 리눅스 사용 설명 참고하기**
 
 
+리눅스는  logical 이 1개  physical 이  n개 /
+window는 logical이 c d 드라이브 등 분류 가능 \
+window는 드라이브마다 root가 있다.
 
+하얀색 파일 파란색 디렉토리
+
+pwd(현재 디렉토리
+
+cd /
+ls
+cd boot
+ls
+cd /
+cd usr
+cd ..
+
+/bin/ls --color=auto
+
+절대경로     상대경로
+/             ../..
+/home         ..         
+/boot         ../../boot
+/usr/lib      ../../usr/lib
+/bin/ls       ../../bin/ls
+/
+
+23page
+ls / -l 
+
+파일 접근권한
+rwxrwxrwx
+r- read w-write x-excute(실행)
+
+--- --- ---
+3개씩 나눠서 owner group others.
+ex)일반txt파일 -rw-r--r-- 
+   실행파일    -rwxr-xr-x
+   디렉토리    drwxr-xr-x
+
+ls / -l  
+
+rm -r 싹다 지우기
