@@ -1,0 +1,25 @@
+2019-05-28(화요일)
+Virtual Box를 이용하여 Ubuntu 설치
+
+### 리눅스란?
+: 리누스 토르발스가 커뮤니티 주체로 개발한 컴퓨터 운영 체제(혹은 커널)이다.
+  자유 소프트웨어와 오픈 소스 개발의 가장 유명한 표본으로 들 수 있다.
+
+### 리눅스의 기본 명령어
+명령어 date, man(manual), ls(list), cp, mv 등 수백가지
+
+
+ls l(list)
+ls -al(점)
+space  다음 페이지 
+date (날짜)
+clear (화면 지우기)
+exit (빠져나가기)
+
+root 비번 설정하기 sudo passwd root
+ctrl + d   root에서 빠져나오기
+
+리눅스 사용 설명 참고하기**
+
+
+
