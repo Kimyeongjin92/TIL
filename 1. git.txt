@@ -1,8 +1,10 @@
-﻿# 1. 빅데이터를 활용한 스마트 데이터 전문가 양성과정
-### [이젠컴퓨터학원](http://dj.ezenac.co.kr/)에서 교육중입니다.
-2019-05-27(월요일)
+﻿###빅데이터를 활용한 스마트 데이터 전문가 양성과정
+# [이젠컴퓨터학원](http://dj.ezenac.co.kr/)에서 교육중입니다
 
-### git 사용법 / java 설치 / ubuntu 설치
+
+### 1. 2019-05-27(월요일)
+
+ 1) git 사용법 / java 설치 / ubuntu 설치
 
  git --version (버젼 확인)
  git config --global user.name "Kimyeongjin92"
@@ -14,9 +16,12 @@
  git push -u origin master (최초실행시)
  git push / pull / clone http://
 
-### git pull no tracking info 에러
+ 2) git pull no tracking info 에러
 
  git branch --set-upstream-to=origin/branch_name
  명령어를 통해 pull을 기본적으로 받을 브랜치를 정해준다.
 
-###
+
+### 2. 2019-05-28(화요일)
+ [git입문 blog](https://backlog.com/git-tutorial/kr/stepup/stepup2_1.htm)
+
