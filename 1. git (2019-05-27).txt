@@ -1,0 +1,18 @@
+﻿# 1. 빅데이터를 활용한 스마트 데이터 전문가 양성과정
+### [이젠컴퓨터학원](http://dj.ezenac.co.kr/)에서 교육중입니다.
+2019-05-28(월요일)
+
+### git 사용법 / java 설치 / ubuntu 설치
+
+ git --version
+ git config --global user.name "Kimyeongjin92"
+ git config --global user.email "dudwlsrla21@naver.com"
+ git init
+ git add filename or . (git status)
+ git commit -m "First Commit" (쓰고싶은 말) git log로 확인
+ git remote add origin https://
+ git push -u origin master (최초실행시)
+ git push / pull / clone http://
+
+
+
